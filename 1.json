@@ -1,0 +1,43 @@
+{
+  "name": "The Ape Project #1",
+  "description": "The Ape Project description",
+  "image": "https://ipfs.io/ipfs/QmYP1xJ71spjVRk4wiTTSrS8tziNVnh7AFB4cLnN5TiGg6/images/0.png",
+  "dna": "b2a1fe3e5dd57ec16054b3775df0f465b833ec15",
+  "edition": 1,
+  "date": 1640108276176,
+  "attributes": [
+    {
+      "trait_type": "Backgrounds",
+      "value": "Blue"
+    },
+    {
+      "trait_type": "Fur",
+      "value": "light brown base fur"
+    },
+    {
+      "trait_type": "Clothes 1",
+      "value": "None"
+    },
+    {
+      "trait_type": "Eyes",
+      "value": "Red laser"
+    },
+    {
+      "trait_type": "Chains 1",
+      "value": "Double rope gold chain"
+    },
+    {
+      "trait_type": "Sunglasses 3",
+      "value": "None"
+    },
+    {
+      "trait_type": "Mouth",
+      "value": "Hmm mouth"
+    },
+    {
+      "trait_type": "Head 3",
+      "value": "None"
+    }
+  ],
+  "compiler": "Marko Celebic"
+}
